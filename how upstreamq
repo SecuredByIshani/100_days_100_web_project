@@ -1,0 +1,37 @@
+  Main[m
+  docs/project-data-schema-guide[m
+  docs/remove-hardcoded-project-count[m
+  docs/remove-hardcoded-project-count-clean[m
+  docs/remove-hardcoded-project-count-final[m
+  feat/projects-schema-validation[m
+  fix/debounce-search-performance[m
+  fix/github-profile-finder-stale-ui[m
+  fix/github-profile-repo-validation[m
+  fix/reduced-motion-accessibility[m
+  [31mremotes/origin/HEAD[m -> origin/Main
+  [31mremotes/origin/Main[m
+  [31mremotes/origin/copilot/assign-issues-to-creators[m
+  [31mremotes/origin/copilot/check-workflow-duration-issue[m
+  [31mremotes/origin/copilot/create-first-and-enhancement-issues[m
+  [31mremotes/origin/copilot/fix-css-centering-issue[m
+  [31mremotes/origin/copilot/fix-css-centering-issues[m
+  [31mremotes/origin/copilot/fix-root-js-errors[m
+  [31mremotes/origin/copilot/update-contributors-list[m
+  [31mremotes/origin/docs/project-data-schema-guide[m
+  [31mremotes/origin/docs/remove-hardcoded-project-count[m
+  [31mremotes/origin/docs/remove-hardcoded-project-count-clean[m
+  [31mremotes/origin/docs/remove-hardcoded-project-count-final[m
+  [31mremotes/origin/feat/projects-schema-validation[m
+  [31mremotes/origin/fix/debounce-search-performance[m
+  [31mremotes/origin/fix/github-profile-finder-stale-ui[m
+  [31mremotes/origin/fix/github-profile-repo-validation[m
+  [31mremotes/origin/fix/reduced-motion-accessibility[m
+  [31mremotes/origin/imgbot[m
+  [31mremotes/upstream/HEAD[m -> upstream/Main
+  [31mremotes/upstream/Main[m
+  [31mremotes/upstream/copilot/assign-issues-to-creators[m
+  [31mremotes/upstream/copilot/check-workflow-duration-issue[m
+  [31mremotes/upstream/copilot/create-first-and-enhancement-issues[m
+  [31mremotes/upstream/copilot/fix-css-centering-issues[m
+  [31mremotes/upstream/copilot/fix-root-js-errors[m
+  [31mremotes/upstream/copilot/remove-100-days-100-we-folder[m
